@@ -94,10 +94,10 @@ chessground@^7.9.3:
   resolved "https://registry.yarnpkg.com/chessground/-/chessground-7.9.3.tgz#dec20a45afe439fe9ed961836a7e5a9157087141"
   integrity sha512-6vU1q3u/69aHt/Y/UwNk9h9BxPhOuJl+xTQH/taicVZcVY7VcUEUpt+yvVGgglooPgOzM/uj2Rzv5Pcaj/R2/A==
 
-chessops@^0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/chessops/-/chessops-0.7.3.tgz#ecd38943fb0135625cd710c5ac68f1c624a147da"
-  integrity sha512-lMh+gibYSvpMYf4Tty3l3DO6XL+MpDynyCZN7UcGdVIsbfjGzGUAA6EJuNR4QTGrt4D8o5oqiNvdrtUtJ/lH+Q==
+chessops@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/chessops/-/chessops-0.8.1.tgz#23f420692264319a73de4ad8535f1c5e4be488c4"
+  integrity sha512-D0VeU1cI0iHqGE3RAZYRZaWTai1wHpKXdZaTM3iWKt89kfnO8Y49MWydcd5TawrfE3Zczq9Xa+1pyr+j/2q4lQ==
   dependencies:
     "@badrap/result" "^0.2.6"
 
@@ -200,9 +200,9 @@ path-is-absolute@^1.0.0:
   integrity sha1-F0uSaHNVNP+8es5r9TpanhtcX18=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 picomatch@^2.2.2:
   version "2.2.2"
