@@ -8,7 +8,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.1",
     "nodemon": "^2.0.6",
     "simple-oauth2": "^4.1.0"
